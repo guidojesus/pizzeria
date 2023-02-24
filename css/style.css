@@ -1,0 +1,45 @@
+*{
+    font-family: 'Merienda', cursive;
+}
+
+.fondo{
+    background-image: url("../img/pizza.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}
+.navbar{
+    background-color:white;
+    opacity: 0.7;
+    
+    
+}
+.formulario{
+    background-color: #e54d27;
+   
+}
+
+#texto-cabezera{
+    height: 600px;
+}
+#tipos-pizzas{
+    height: 650px;
+}
+.menu{
+    width: 200px;
+}
+article p{
+   color: rgb(130,130,130);
+}
+article h3, h2{
+    color: rgb(90,90,90);
+}
+#informacion{
+    background-color: #e54d27;
+    
+}
+#informacion p, h3{
+    margin: 0;
+}
